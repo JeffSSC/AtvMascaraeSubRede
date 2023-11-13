@@ -65,6 +65,7 @@ para 28 e duas para 10. Assim, todo bloco /24 será usado.
 Pergunta: quantos bits na parte de rede do endereço são 
 necessários para ter uma rede que suporte até x 
 dispositivos?
+R: Será necessário 26 bits de rede e 6 de host para suportar 4 sub-redes e 251 hosts.
 
 2 - Uma empresa com 4 filiais:
 Joinville: 120 máquinas
