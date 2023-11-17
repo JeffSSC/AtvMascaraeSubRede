@@ -7,7 +7,7 @@ R: 2 sub-redes e 126 IPs mais 2 de Broadcast
 c. Qual a máscara? (decimal e CIDR)
 R: 11111111.11111111.10000000.00000000 e /17
 d. Qual o primeiro IP válido?
-R: 10.10.0.0/17
+R: 10.10.0.1/17
 e. Quantos IPs válidos.
 R: 32766 IPs Válidos
 f. Broadcast.
@@ -22,7 +22,7 @@ R: 4 sub-redes e 251 IPs possíveis e 4 de broadcast
 c. Qual a máscara? (decimal e CIDR)
 R: 11111111.11111111.11111111.11000000 e /26
 d. Qual o primeiro IP válido?
-R: 192.168.3.0/26
+R: 192.168.3.1/26
 e. Quantos IPs válidos.
 R: 62 IPs valídos.
 f. Broadcast.
@@ -37,7 +37,7 @@ R: 8 Sub-redes e 24 IPs mais 8 de broadcast
 c. Qual a máscara? (decimal e CIDR)
 R: 11111111.11111111.11111111.11100000
 d. Qual o primeiro IP válido?
-R: 192.168.2.0/27
+R: 192.168.2.1/27
 e. Quantos IPs válidos.
 R: 24 IPs válidos
 f. Broadcast.
@@ -52,7 +52,7 @@ R: 128 sub-redes e 384 IPs mais 128 de broadcast
 c. Qual a máscara? (decimal e CIDR)
 R: 11111111.11111111.11111110.00000000 e /23
 d. Qual o primeiro IP válido?
-R: 172.19.20.0/23
+R: 172.19.20.1/23
 e. Quantos IPs válidos.
 R: 384 IPs válidos e 128 de broadcast
 f. Broadcast.
