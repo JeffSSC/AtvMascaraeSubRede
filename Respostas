@@ -24,9 +24,9 @@ R: 11111111.11111111.11111111.11000000 e /26
 d. Qual o primeiro IP válido?
 R: 192.168.3.1/26
 e. Quantos IPs válidos.
-R: 62 IPs valídos.
+R: 251 IPs valídos.
 f. Broadcast.
-R: 192.168.3.63/26
+R: 192.168.3.255/26
 
 IP: 192.168.2.30 /27
 Perguntas:
