@@ -75,3 +75,32 @@ São Bento do Sul: 600 máquinas
 – Melhor aproveitamento de IPs.
 – Usar IPs 172.16.0.0 em diante.
 
+R:
+Será usado em São Bento do Sul a máscara 255.255.252.0 com CIDR /22
+Sendo
+Ip de rede: 172.16.0.0
+Primeiro Ip Válido: 172.16.0.1
+Ultimo Ip Válido: 172.16.3.254
+Broadcast: 172.16.3.255
+
+Será usado em Florianópolis a máscara 255.255.254.0 com CIDR /23
+Sendo
+Ip de rede: 172.16.4.0
+Primeiro Ip Válido: 172.16.4.1
+Ultimo Ip Válido: 172.16.5.254
+Broadcast: 172.16.5.255
+
+Será usado em Joinville uma máscara 255.255.255.128 e CIDR /25
+Sendo
+Ip de rede: 172.16.6.0
+Primeiro Ip válido: 172.16.6.1
+Ultimo Ip Válido: 172.16.6.127
+Broadcast: 172.16.6.128
+
+Será usado em Jaraguá do Sul uma máscara 255.255.255.192 e CIDR /26
+Sendo
+Ip de rede: 172.16.6.129
+Primeiro Ip Válido: 172.16.6.130
+Ultimo Ip Válido: 172.16.6.180
+Broadcast: 172.16.6.181
+
